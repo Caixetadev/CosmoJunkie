@@ -59,7 +59,7 @@ textarea:focus {
 /* =================== Fonts ==================== */
 @font-face {
   font-family: "Rubik Regular";
-  src: url("/assets/fonts/Rubik-Regular.ttf");
+  src: url("./assets/fonts/Rubik-Regular.ttf");
 }
 
 h1,
@@ -141,7 +141,7 @@ h4 {
 }
 
 #portfolio {
-  background-image: url("/assets/img/square_bg.png");
+  background-image: url("./assets/img/square_bg.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -225,7 +225,7 @@ h4 {
 footer {
   padding: 30px 20px;
   background-color: #14153d;
-  background-image: url("/assets/img/footer_image.png");
+  background-image: url("./assets/img/footer_image.png");
   background-size: 40%;
   background-repeat: no-repeat;
   background-position: top center;
