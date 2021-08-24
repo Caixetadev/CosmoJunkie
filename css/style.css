@@ -297,6 +297,10 @@ footer img {
 
 /* =================== Large Tablets & Laptop Styles  ==================== */
 @media screen and (min-width: 960px) {
+  html {
+    scroll-behavior: smooth;
+  }
+
   body {
     font-size: 18px;
   }
@@ -377,6 +381,10 @@ footer img {
 
 /* =================== Desktop Styles ==================== */
 @media screen and (min-width: 1200px) {
+  html {
+    scroll-behavior: smooth;
+  }
+
   body {
     font-size: 20px;
   }
